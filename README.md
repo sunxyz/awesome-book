@@ -1,6 +1,10 @@
 # awesome-book :tiger: 
 > 精心策划的与书有关的事物清单
+
 > A curated list of awesome things related to book 
+
+欢迎fork与requsets
+
 ## :whale: bookcase:
 
 > 用来收集读过或准备读的gitbook书籍
