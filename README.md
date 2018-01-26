@@ -31,17 +31,17 @@
 
 [《Spring Data 中文版本》](https://www.gitbook.com/book/czeng/spring-data/details)
 
-[跟我学 Spring 系列](https://www.gitbook.com/book/wizardforcel/gen-wo-xue-spring/details)
+[《跟我学 Spring 系列》](https://www.gitbook.com/book/wizardforcel/gen-wo-xue-spring/details)
 
-[MyBatis 中文文档 3.4](https://www.gitbook.com/book/wizardforcel/mybatis-doc/details)
+[《MyBatis 中文文档 3.4》](https://www.gitbook.com/book/wizardforcel/mybatis-doc/details)
 
-[Thinking in Java (Java 编程思想)](https://www.gitbook.com/book/wizardforcel/thinking-in-java/details)
+[《Thinking in Java (Java 编程思想)》](https://www.gitbook.com/book/wizardforcel/thinking-in-java/details)
 
 [《Java Servlet 3.1 规范》](https://github.com/waylau/servlet-3.1-specification)
 
-[Java 开源项目中文文档](https://www.gitbook.com/book/wizardforcel/java-opensource-doc/details)
+[《Java 开源项目中文文档》](https://www.gitbook.com/book/wizardforcel/java-opensource-doc/details)
 
-[Java 8 简明教程](https://www.gitbook.com/book/wizardforcel/modern-java/details)
+[《Java 8 简明教程》](https://www.gitbook.com/book/wizardforcel/modern-java/details)
 
 **javaScript**
 
@@ -49,15 +49,15 @@
 
 [《JS 函数式编程指南》](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
 
-[Google JavaScript 风格指南](https://www.gitbook.com/book/wizardforcel/google-javascript-style-guide/details)
+[《Google JavaScript 风格指南》](https://www.gitbook.com/book/wizardforcel/google-javascript-style-guide/details)
 
 **Python**
 
-[Python 核心编程 第二版](https://www.gitbook.com/book/wizardforcel/core-python-2e/details)
+[《Python 核心编程 第二版》](https://www.gitbook.com/book/wizardforcel/core-python-2e/details)
 
-[笨办法学 python](https://www.gitbook.com/book/wizardforcel/lpthw/details)
+[《笨办法学 python》](https://www.gitbook.com/book/wizardforcel/lpthw/details)
 
-[Django 中文文档 1.8](https://www.gitbook.com/book/wizardforcel/django-chinese-docs-18/details)
+[《Django 中文文档 1.8》](https://www.gitbook.com/book/wizardforcel/django-chinese-docs-18/details)
 
 **golang**
 
@@ -65,48 +65,48 @@
 
 [《Go 语言圣经 中文版》](https://www.gitbook.com/book/wizardforcel/gopl-zh/details)
 
-[Go Web 编程](https://www.gitbook.com/book/wizardforcel/build-web-application-with-golang/details)
+[《Go Web 编程》](https://www.gitbook.com/book/wizardforcel/build-web-application-with-golang/details)
 
 **c**
 
-[笨办法学C 中文版](https://www.gitbook.com/book/wizardforcel/lcthw/details)
+[《笨办法学C 中文版》](https://www.gitbook.com/book/wizardforcel/lcthw/details)
 
 **c++**
 
-[Effective C++](https://www.gitbook.com/book/wizardforcel/effective-cpp/details)
+[《Effective C++》](https://www.gitbook.com/book/wizardforcel/effective-cpp/details)
 
 
-[C++11 FAQ 中文版](https://www.gitbook.com/book/wizardforcel/cpp-11-faq/details)
+[《C++11 FAQ 中文版》](https://www.gitbook.com/book/wizardforcel/cpp-11-faq/details)
 
 **Ruby**
 
-[Ruby on Rails 指南](https://www.gitbook.com/book/wizardforcel/rails-guides/details)
+[《Ruby on Rails 指南》](https://www.gitbook.com/book/wizardforcel/rails-guides/details)
 
 **Liunx**
 
-[鸟哥的Linux私房菜：基础学习篇 第四版](https://www.gitbook.com/book/wizardforcel/vbird-linux-basic-4e/details)
+[《鸟哥的Linux私房菜：基础学习篇 第四版》](https://www.gitbook.com/book/wizardforcel/vbird-linux-basic-4e/details)
 
-[大学霸 Kali Linux 安全渗透教程](https://www.gitbook.com/book/wizardforcel/daxueba-kali-linux-tutorial/details)
+[《大学霸 Kali Linux 安全渗透教程》](https://www.gitbook.com/book/wizardforcel/daxueba-kali-linux-tutorial/details)
 
-[笨办法学 Linux 中文版](https://www.gitbook.com/book/wizardforcel/llthw/details)
+[《笨办法学 Linux 中文版》](https://www.gitbook.com/book/wizardforcel/llthw/details)
 
 **Nginx**
 
-[Nginx 中文官方文档](https://www.gitbook.com/book/wizardforcel/nginx-doc/details)
+[《Nginx 中文官方文档》](https://www.gitbook.com/book/wizardforcel/nginx-doc/details)
 
 **Redis**
 
-[Redis 中文文档](https://www.gitbook.com/book/wizardforcel/redis-doc/details)
+[《Redis 中文文档》](https://www.gitbook.com/book/wizardforcel/redis-doc/details)
 
 **Electron**
 
-[Electron 中文文档](https://www.gitbook.com/book/wizardforcel/electron-doc/details)
+[《Electron 中文文档》](https://www.gitbook.com/book/wizardforcel/electron-doc/details)
 
 **Qt**
 
-[Qt 快速入门系列教程](https://www.gitbook.com/book/wizardforcel/qt-beginning/details)
+[《Qt 快速入门系列教程》](https://www.gitbook.com/book/wizardforcel/qt-beginning/details)
 
-[零基础学 qt4 编程](https://www.gitbook.com/book/wizardforcel/wudi-qt4/details)
+[《零基础学 qt4 编程》](https://www.gitbook.com/book/wizardforcel/wudi-qt4/details)
 
 **other**
 
