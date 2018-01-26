@@ -19,6 +19,7 @@
 [《前方的路》](https://github.com/ruanyf/road)
 
 ### 编程之禅
+
 **java**
 
 [《Spring Boot参考指南》](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/)
@@ -75,12 +76,17 @@
 
 [《Effective C++》](https://www.gitbook.com/book/wizardforcel/effective-cpp/details)
 
-
 [《C++11 FAQ 中文版》](https://www.gitbook.com/book/wizardforcel/cpp-11-faq/details)
+
+[《C++并发编程(中文版)》](https://www.gitbook.com/book/chenxiaowei/cpp_concurrency_in_action/details)
 
 **Ruby**
 
 [《Ruby on Rails 指南》](https://www.gitbook.com/book/wizardforcel/rails-guides/details)
+
+**Objective-C**
+
+[《禅与 Objective-C 编程艺术》](https://www.gitbook.com/book/yourtion/objc-zen-book-cn/details)
 
 **Liunx**
 
@@ -110,6 +116,8 @@
 
 **other**
 
+[程序员的自我修养](https://www.gitbook.com/book/leohxj/a-programmer-prepares/details)
+
 [图说设计模式](https://github.com/me115/design_patterns)
 
 [设计模式Java版](https://www.gitbook.com/book/quanke/design-pattern-java/details)
@@ -119,7 +127,6 @@
 [数据挖掘十大算法详解](https://www.gitbook.com/book/wizardforcel/dm-algo-top10/details)
 
 [廖雪峰 JavaScript Python Git 教程](https://www.gitbook.com/book/wizardforcel/liaoxuefeng/details)
-
 
 [ideabook0](https://github.com/phodal/ideabook)
 
