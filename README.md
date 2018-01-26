@@ -23,11 +23,11 @@
 
 [《Spring Framework 4.x参考文档》](https://github.com/waylau/spring-framework-4-reference)
 
-[Spring MVC 4.2.4.RELEASE 中文文档](https://www.gitbook.com/book/linesh/spring-mvc-documentation-linesh-translation/details)
+[《Spring MVC 4.2.4.RELEASE 中文文档》](https://www.gitbook.com/book/linesh/spring-mvc-documentation-linesh-translation/details)
 
-[Spring Security 参考手册](https://www.gitbook.com/book/vincentmi/spring-security-reference-zh/details)
+[《Spring Security 参考手册》](https://www.gitbook.com/book/vincentmi/spring-security-reference-zh/details)
 
-[Spring Data 中文版本](https://www.gitbook.com/book/czeng/spring-data/details)
+[《Spring Data 中文版本》](https://www.gitbook.com/book/czeng/spring-data/details)
 
 [《Java Servlet 3.1 规范》](https://github.com/waylau/servlet-3.1-specification)
 
