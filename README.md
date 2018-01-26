@@ -51,13 +51,13 @@
 
 [sindresorhus/awesome](https://github.com/vuejs/awesome-vue) - Curated list of awesome lists
  
-## 表情符号作弊表
+## EMOJI
 
-> EMOJI CHEAT SHEET
+> 表情符号作弊表 EMOJI CHEAT SHEET
 
 
 
-### Nature
+### Nature [更多](pocket/EMOJI%20CHEAT%20SHEET.md)
 
 :sunny:
 :umbrella:
@@ -175,6 +175,6 @@
 :octocat:
 :squirrel:
 
-[更多](pocket/EMOJI%20CHEAT%20SHEET.md)
+
 
 出处： [emoji-cheat-sheet](https://github.com/WebpageFX/emoji-cheat-sheet.com/)
