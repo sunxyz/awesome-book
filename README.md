@@ -8,3 +8,12 @@
 [《新生 —— 七年就是一辈子》](https://b.xinshengdaxue.com/Preface.html)
 ### 编程之禅
 [《Spring Boot参考指南》](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/)
+
+## pocket
+
+用来收集github上别人已经收集过的资料 主要与编程相关
+
+[免费的编程中文书籍索引](https://github.com/tengj/free-programming-books-zh_CN)
+[Awesome Vue.js - A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue)
+[free-programming-books - List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books)
+
