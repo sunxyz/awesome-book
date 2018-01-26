@@ -10,7 +10,7 @@
 
 [《新生 —— 七年就是一辈子》](https://b.xinshengdaxue.com/Preface.html)
 
-[博客文集《未来世界的幸存者》](https://github.com/ruanyf/survivor)
+[《未来世界的幸存者》](https://github.com/ruanyf/survivor)
 
 [《前方的路》](https://github.com/ruanyf/road)
 
