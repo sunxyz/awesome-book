@@ -14,6 +14,8 @@
 用来收集github上别人已经收集过的资料 主要与编程相关
 
 [免费的编程中文书籍索引](https://github.com/tengj/free-programming-books-zh_CN)
-[Awesome Vue.js - A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue)
-[free-programming-books - List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books)
+
+[Awesome Vue.js](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
+
+[free-programming-books](https://github.com/EbookFoundation/free-programming-books) - List of Free Learning Resources
 
