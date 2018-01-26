@@ -1,4 +1,4 @@
-# awesome-book 🎉
+# awesome-book 🐯 
 > 精心策划的与书有关的事物清单
 > A curated list of awesome things related to book 
 ## bookcase:
@@ -37,7 +37,7 @@
 
 [ideabook0](https://github.com/phodal/ideabook)
 
-## pocket
+## pocket :rabbit:
 
 > 用来收集github上别人已经收集过的资料 主要与编程相关
 
@@ -51,7 +51,7 @@
 
 [sindresorhus/awesome](https://github.com/vuejs/awesome-vue) - Curated list of awesome lists
  
-## EMOJI
+## EMOJI 🎉
 
 > 表情符号作弊表 EMOJI CHEAT SHEET
 
