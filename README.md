@@ -1,4 +1,5 @@
 # awesome-book
+> 精心策划的与书有关的事物清单
 > A curated list of awesome things related to book 
 ## bookcase:
 
