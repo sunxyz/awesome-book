@@ -27,7 +27,7 @@
 
 [图说设计模式](https://github.com/me115/design_patterns)
 
-[ideabook0(https://github.com/phodal/ideabook)
+[ideabook0](https://github.com/phodal/ideabook)
 
 ## pocket
 
