@@ -53,7 +53,7 @@
 
 [sindresorhus/awesome](https://github.com/vuejs/awesome-vue) - Curated list of awesome lists
  
-## 🎉 EMOJI 
+## :hamster: EMOJI 
 
 > 表情符号作弊表 EMOJI CHEAT SHEET
 
@@ -179,6 +179,6 @@
 
 出处： [emoji-cheat-sheet](https://github.com/WebpageFX/emoji-cheat-sheet.com/)
 
-## :hamster: other
+## 🎉 other
 
 > 欢迎fork与requsets
