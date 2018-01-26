@@ -8,7 +8,24 @@
 ### 生活之道
 [《新生 —— 七年就是一辈子》](https://b.xinshengdaxue.com/Preface.html)
 ### 编程之禅
+**java**
+
 [《Spring Boot参考指南》](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/)
+
+[《Spring Framework 4.x参考文档》](https://github.com/waylau/spring-framework-4-reference)
+
+[《Java Servlet 3.1 规范》](https://github.com/waylau/servlet-3.1-specification)
+**javaScript**
+
+[《ECMAScript 6入门》](https://github.com/ruanyf/es6tutorial)
+
+**golang**
+[《Go 编程基础》](https://github.com/Unknwon/go-fundamental-programming)
+
+**other**
+[图说设计模式](https://github.com/me115/design_patterns)
+
+[ideabook0(https://github.com/phodal/ideabook)
 
 ## pocket
 
@@ -20,3 +37,7 @@
 
 [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - List of Free Learning Resources
 
+[Programming_learning_resource](https://github.com/shihyu/Programming_learning_resource) - 一些学习资料的收集
+
+[sindresorhus/awesome](https://github.com/vuejs/awesome-vue) - Curated list of awesome lists
+ 
