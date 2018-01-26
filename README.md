@@ -3,7 +3,6 @@
 
 > A curated list of awesome things related to book 
 
-欢迎fork与requsets
 
 ## :whale: bookcase:
 
@@ -178,6 +177,8 @@
 :octocat:
 :squirrel:
 
-
-
 出处： [emoji-cheat-sheet](https://github.com/WebpageFX/emoji-cheat-sheet.com/)
+
+## :hamster: other
+
+> 欢迎fork与requsets
