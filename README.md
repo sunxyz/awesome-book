@@ -10,7 +10,9 @@
 ### 生活之道 
 **启示录**
 
-[《新生 —— 七年就是一辈子》](https://b.xinshengdaxue.com/Preface.html)
+[《新生 —— 七年就是一辈子》](https://www.gitbook.com/book/xiaolai/reborn/details)
+
+[《把时间当作朋友》](https://www.gitbook.com/book/xiaolai/ba-shi-jian-dang-zuo-peng-you/details)
 
 [《未来世界的幸存者》](https://github.com/ruanyf/survivor)
 
@@ -31,6 +33,9 @@
 
 [《Java Servlet 3.1 规范》](https://github.com/waylau/servlet-3.1-specification)
 
+[Java 开源项目中文文档](https://www.gitbook.com/book/wizardforcel/java-opensource-doc/details)
+
+[Java 8 简明教程](https://www.gitbook.com/book/wizardforcel/modern-java/details)
 
 **javaScript**
 
@@ -38,15 +43,57 @@
 
 [《JS 函数式编程指南》](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
 
+**Python**
+
+[Python 核心编程 第二版](https://www.gitbook.com/book/wizardforcel/core-python-2e/details)
+
+[笨办法学 python](https://www.gitbook.com/book/wizardforcel/lpthw/details)
+
+[Django 中文文档 1.8](https://www.gitbook.com/book/wizardforcel/django-chinese-docs-18/details)
+
 **golang**
 
 [《Go 编程基础》](https://github.com/Unknwon/go-fundamental-programming)
+
+[《Go 语言圣经 中文版》](https://www.gitbook.com/book/wizardforcel/gopl-zh/details)
+
+[Go Web 编程](https://www.gitbook.com/book/wizardforcel/build-web-application-with-golang/details)
+
+**c**
+
+[笨办法学C 中文版](https://www.gitbook.com/book/wizardforcel/lcthw/details)
+
+**c++**
+
+[Effective C++](https://www.gitbook.com/book/wizardforcel/effective-cpp/details)
+
+**Liunx**
+
+[鸟哥的Linux私房菜：基础学习篇 第四版](https://www.gitbook.com/book/wizardforcel/vbird-linux-basic-4e/details)
+
+[大学霸 Kali Linux 安全渗透教程](https://www.gitbook.com/book/wizardforcel/daxueba-kali-linux-tutorial/details)
+
+**Nginx**
+
+[Nginx 中文官方文档](https://www.gitbook.com/book/wizardforcel/nginx-doc/details)
+
+**Redis**
+
+[Redis 中文文档](https://www.gitbook.com/book/wizardforcel/redis-doc/details)
+
 
 **other**
 
 [图说设计模式](https://github.com/me115/design_patterns)
 
 [设计模式Java版](https://www.gitbook.com/book/quanke/design-pattern-java/details)
+
+[编程之法：面试和算法心得](https://www.gitbook.com/book/wizardforcel/the-art-of-programming-by-july/details)
+
+[数据挖掘十大算法详解](https://www.gitbook.com/book/wizardforcel/dm-algo-top10/details)
+
+[廖雪峰 JavaScript Python Git 教程](https://www.gitbook.com/book/wizardforcel/liaoxuefeng/details)
+
 
 [ideabook0](https://github.com/phodal/ideabook)
 
