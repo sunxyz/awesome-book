@@ -133,7 +133,7 @@
 ## :rabbit: pocket 
 > 用来收集github上别人已经收集过的资料 主要与编程相关
 
-[免费的编程中文书籍索引](https://github.com/tengj/free-programming-books-zh_CN)
+[免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 
 [Awesome Vue.js](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
 
