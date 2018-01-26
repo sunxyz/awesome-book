@@ -23,11 +23,20 @@
 
 [《Spring Framework 4.x参考文档》](https://github.com/waylau/spring-framework-4-reference)
 
+[Spring MVC 4.2.4.RELEASE 中文文档](https://www.gitbook.com/book/linesh/spring-mvc-documentation-linesh-translation/details)
+
+[Spring Security 参考手册](https://www.gitbook.com/book/vincentmi/spring-security-reference-zh/details)
+
+[Spring Data 中文版本](https://www.gitbook.com/book/czeng/spring-data/details)
+
 [《Java Servlet 3.1 规范》](https://github.com/waylau/servlet-3.1-specification)
+
 
 **javaScript**
 
 [《ECMAScript 6入门》](https://github.com/ruanyf/es6tutorial)
+
+[JS 函数式编程指南](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
 
 **golang**
 
@@ -36,6 +45,8 @@
 **other**
 
 [图说设计模式](https://github.com/me115/design_patterns)
+
+[设计模式Java版](https://www.gitbook.com/book/quanke/design-pattern-java/details)
 
 [ideabook0](https://github.com/phodal/ideabook)
 
