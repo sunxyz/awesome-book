@@ -3,7 +3,7 @@
 > A curated list of awesome things related to book 
 ## bookcase:
 
-用来收集读过或准备读的gitbook书籍
+> 用来收集读过或准备读的gitbook书籍
 
 ### 生活之道
 [《新生 —— 七年就是一辈子》](https://b.xinshengdaxue.com/Preface.html)
@@ -20,16 +20,18 @@
 [《ECMAScript 6入门》](https://github.com/ruanyf/es6tutorial)
 
 **golang**
+
 [《Go 编程基础》](https://github.com/Unknwon/go-fundamental-programming)
 
 **other**
+
 [图说设计模式](https://github.com/me115/design_patterns)
 
 [ideabook0(https://github.com/phodal/ideabook)
 
 ## pocket
 
-用来收集github上别人已经收集过的资料 主要与编程相关
+> 用来收集github上别人已经收集过的资料 主要与编程相关
 
 [免费的编程中文书籍索引](https://github.com/tengj/free-programming-books-zh_CN)
 
