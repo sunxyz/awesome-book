@@ -1,2 +1,3 @@
-# awesome-book
-A curated list of awesome things related to book 
+# pocket
+
+用来收集自己的学习笔记及心得和好玩有趣的事情
