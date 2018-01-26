@@ -31,6 +31,12 @@
 
 [《Spring Data 中文版本》](https://www.gitbook.com/book/czeng/spring-data/details)
 
+[跟我学 Spring 系列](https://www.gitbook.com/book/wizardforcel/gen-wo-xue-spring/details)
+
+[MyBatis 中文文档 3.4](https://www.gitbook.com/book/wizardforcel/mybatis-doc/details)
+
+[Thinking in Java (Java 编程思想)](https://www.gitbook.com/book/wizardforcel/thinking-in-java/details)
+
 [《Java Servlet 3.1 规范》](https://github.com/waylau/servlet-3.1-specification)
 
 [Java 开源项目中文文档](https://www.gitbook.com/book/wizardforcel/java-opensource-doc/details)
@@ -42,6 +48,8 @@
 [《ECMAScript 6入门》](https://github.com/ruanyf/es6tutorial)
 
 [《JS 函数式编程指南》](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
+
+[Google JavaScript 风格指南](https://www.gitbook.com/book/wizardforcel/google-javascript-style-guide/details)
 
 **Python**
 
@@ -67,11 +75,20 @@
 
 [Effective C++](https://www.gitbook.com/book/wizardforcel/effective-cpp/details)
 
+
+[C++11 FAQ 中文版](https://www.gitbook.com/book/wizardforcel/cpp-11-faq/details)
+
+**Ruby**
+
+[Ruby on Rails 指南](https://www.gitbook.com/book/wizardforcel/rails-guides/details)
+
 **Liunx**
 
 [鸟哥的Linux私房菜：基础学习篇 第四版](https://www.gitbook.com/book/wizardforcel/vbird-linux-basic-4e/details)
 
 [大学霸 Kali Linux 安全渗透教程](https://www.gitbook.com/book/wizardforcel/daxueba-kali-linux-tutorial/details)
+
+[笨办法学 Linux 中文版](https://www.gitbook.com/book/wizardforcel/llthw/details)
 
 **Nginx**
 
@@ -81,6 +98,15 @@
 
 [Redis 中文文档](https://www.gitbook.com/book/wizardforcel/redis-doc/details)
 
+**Electron**
+
+[Electron 中文文档](https://www.gitbook.com/book/wizardforcel/electron-doc/details)
+
+**Qt**
+
+[Qt 快速入门系列教程](https://www.gitbook.com/book/wizardforcel/qt-beginning/details)
+
+[零基础学 qt4 编程](https://www.gitbook.com/book/wizardforcel/wudi-qt4/details)
 
 **other**
 
