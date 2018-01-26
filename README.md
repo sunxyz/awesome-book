@@ -1,11 +1,11 @@
-# awesome-book :tiger:
+# :tiger: awesome-book 
 > 精心策划的与书有关的事物清单
 > A curated list of awesome things related to book 
-## bookcase:
+## :whale: bookcase:
 
 > 用来收集读过或准备读的gitbook书籍
 
-### 生活之道 :whale:
+### 生活之道 
 **启示录**
 
 [《新生 —— 七年就是一辈子》](https://b.xinshengdaxue.com/Preface.html)
@@ -37,8 +37,7 @@
 
 [ideabook0](https://github.com/phodal/ideabook)
 
-## pocket :rabbit:
-
+## :rabbit: pocket 
 > 用来收集github上别人已经收集过的资料 主要与编程相关
 
 [免费的编程中文书籍索引](https://github.com/tengj/free-programming-books-zh_CN)
@@ -51,7 +50,7 @@
 
 [sindresorhus/awesome](https://github.com/vuejs/awesome-vue) - Curated list of awesome lists
  
-## EMOJI 🎉
+## 🎉 EMOJI 
 
 > 表情符号作弊表 EMOJI CHEAT SHEET
 
