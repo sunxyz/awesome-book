@@ -175,6 +175,6 @@
 :octocat:
 :squirrel:
 
-[更多](a)
+[更多](pocket/EMOJI%20CHEAT%20SHEET.md)
 
 出处： [emoji-cheat-sheet](https://github.com/WebpageFX/emoji-cheat-sheet.com/)
