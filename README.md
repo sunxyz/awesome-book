@@ -36,7 +36,7 @@
 
 [《ECMAScript 6入门》](https://github.com/ruanyf/es6tutorial)
 
-[JS 函数式编程指南](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
+[《JS 函数式编程指南》](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
 
 **golang**
 
