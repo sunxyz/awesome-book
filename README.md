@@ -1,11 +1,11 @@
-# awesome-book 🐯 
+# awesome-book :whale:
 > 精心策划的与书有关的事物清单
 > A curated list of awesome things related to book 
 ## bookcase:
 
 > 用来收集读过或准备读的gitbook书籍
 
-### 生活之道
+### 生活之道 :tiger:
 **启示录**
 
 [《新生 —— 七年就是一辈子》](https://b.xinshengdaxue.com/Preface.html)
