@@ -3,11 +3,11 @@
 > 精心策划的与书有关的事物清单 
 > A curated list of awesome things related to book 
 
-## :whale: bookcase:
+ :whale: bookcase:
 
 > 用来收集读过或准备读的gitbook书籍
 
-### 生活之道 
+## 生活之道 
 **启示录**
 
 [《新生 —— 七年就是一辈子》](https://www.gitbook.com/book/xiaolai/reborn/details)
@@ -18,7 +18,7 @@
 
 [《前方的路》](https://github.com/ruanyf/road)
 
-### 编程之禅
+## 编程之禅
 
 **java**
 
