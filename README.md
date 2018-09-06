@@ -131,7 +131,13 @@
 [ideabook0](https://github.com/phodal/ideabook)
 
 ## :rabbit: pocket 
-> 用来收集github上别人已经收集过的资料 主要与编程相关
+> 用来收集github或blog上 别人已经收集过的资料 主要与编程相关
+
+**blog**
+
+[芋道源码 —— 纯源码解析博客](http://www.iocoder.cn/)
+
+**github**
 
 [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 
