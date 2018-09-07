@@ -137,6 +137,9 @@
 
 [芋道源码 —— 纯源码解析博客](http://www.iocoder.cn/)
 
+**http**
+[白话图解HTTPS原理](https://www.cnblogs.com/ghjbk/p/6738069.html)
+
 **github**
 
 [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
