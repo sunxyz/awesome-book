@@ -20,7 +20,7 @@
 
 ## 编程之禅
 
-**基础**
+**基础 精选**
 
 - 网络
 
@@ -45,7 +45,7 @@
 [大话设计模式](https://itpanda.net/book/264)
 
 - 计算机
-
+[现代操作系统](http://myitbooks.com/coder/503.html)
 - 数学
 
 **java**
