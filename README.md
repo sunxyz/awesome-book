@@ -24,27 +24,25 @@
 
 - 网络
 
-图解tcp/ip
+[图解tcp/ip](http://myitbooks.com/coder/1014.html)
 
-图解http
+[图解http](https://www.linuxidc.com/Linux/2017-06/144435.htm)
 
-http权威指南
+[http权威指南](http://myitbooks.com/coder/618.html)
 
-网络自顶向下的设计
+[计算机网络：自顶向下方法](https://pan.baidu.com/s/1i3qw1nv)
 
 - 数据结构与算法
 
-大话数据结构与算法
+[大话数据结构与算法](http://myitbooks.com/coder/1070.html)
 
-图解算法
+[图解算法](http://myitbooks.com/coder/1056.html)
 
-算法
+[算法](https://blog.csdn.net/hehe0705/article/details/78048448)
 
 - 设计模式
 
-大话设计模式
-
-设计模式
+[大话设计模式](https://itpanda.net/book/264)
 
 - 计算机
 
