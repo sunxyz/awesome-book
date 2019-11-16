@@ -20,6 +20,36 @@
 
 ## 编程之禅
 
+**基础**
+
+- 网络
+
+图解tcp/ip
+
+图解http
+
+http权威指南
+
+网络自顶向下的设计
+
+- 数据结构与算法
+
+大话数据结构与算法
+
+图解算法
+
+算法
+
+- 设计模式
+
+大话设计模式
+
+设计模式
+
+- 计算机
+
+- 数学
+
 **java**
 
 [《Spring Boot参考指南》](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/)
